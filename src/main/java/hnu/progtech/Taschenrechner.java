@@ -3,7 +3,6 @@ package hnu.progtech;
 /**
  * Hier kommt ein Text zur Erklärung des Zwecks der Klasse
  * @author meyer.lokal
- *
  */
 
 public class Taschenrechner {
